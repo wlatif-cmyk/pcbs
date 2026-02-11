@@ -1,2 +1,8 @@
 # pcbs
-a collection of my favourite PCB designs as of recent
+
+
+
+I've recently embarked on a journey to teach myself PCB design...
+
+And as you can tell I've fell in love with it
+
