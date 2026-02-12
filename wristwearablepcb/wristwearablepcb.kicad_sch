@@ -4195,18 +4195,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "- Check datasheets incase I need to add capacitors\n\n- Double check with somesbody on if the wiring is correct\n\n- Make sure no pins are floating\n\n- Get matching footprints for resistors and random things\n\n- Run ERC LOL\n\n"
-		(exclude_from_sim no)
-		(at 117.348 164.338 0)
-		(effects
-			(font
-				(face "KiCad Font")
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "34eff513-eded-4a07-9fa7-14d41799cfee")
-	)
 	(text "WALID LATIF"
 		(exclude_from_sim no)
 		(at 221.234 175.26 0)
@@ -4587,10 +4575,6 @@
 	(no_connect
 		(at 170.18 69.85)
 		(uuid "be223c16-a8e7-4a33-b299-bf1a10c0d165")
-	)
-	(no_connect
-		(at 171.45 64.77)
-		(uuid "c0dd3312-0788-4c37-a237-0715bcfc81da")
 	)
 	(no_connect
 		(at 139.7 100.33)
