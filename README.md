@@ -2,14 +2,13 @@
 
 
 
-I've recently embarked on a journey to teach myself PCB design...
+PCB design
 
-And as you can tell I've fell in love with it
+e : walidahmadlatif@gmail.com
 
-Here's what I've been working on recently:
+Soft robot controller
+![PCB image](softrobotpcb/sr3d.png)
 
-![PCB image](wristwearablepcb/wwpcb.png)
-
+Haptic fitness watch
 ![3dPCB image](wristwearablepcb/ww3d.png)
 
-![Schematic image](wristwearablepcb/wwsche.png)
