@@ -2,11 +2,9 @@
 
 
 
-I've recently embarked on a journey to teach myself PCB design...
+PCB design
 
-And as you can tell I've fell in love with it
-
-Here's what I've been working on recently:
+e : walidahmadlatif@gmail.com
 
 ![PCB image](softrobotpcb/sr3d.png)
 
