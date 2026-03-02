@@ -1,4 +1,4 @@
-27521748656794696
+27527063272250529
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -109046,12 +109046,33 @@ LGA-16_L3.0-W3.0-P0.50-TL
 16
 16
 lsm
+OLED-SMD_QG-2864XXX
+
+
+0
+32
+30
+lsm
 QFN-32_L5.0-W5.0-P0.50-TL-EP3.7
 
 
 0
 33
 33
+lsm
+SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL
+
+
+0
+8
+8
+lsm
+SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL-EP3.3
+
+
+0
+9
+9
 lsm
 SOT-89-3_L4.5-W2.5-P1.50-LS4.2-BR
 

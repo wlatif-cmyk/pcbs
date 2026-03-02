@@ -33592,18 +33592,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "511-LSM6DSOXTR"
+		(property "LCSC" "C481766"
 			(at 76.2 915.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/LSM6DSOXTR?qs=l7cgNqFNU1i9dcjzItLpVQ%3D%3D"
-			(at 76.2 1015.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
